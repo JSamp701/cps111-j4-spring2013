@@ -1,0 +1,3 @@
+## Game Concept: ##
+
+The concept of our game is to produce a basic-level Mobile Online Battle Arena. This game will be very similar to League of Legends and DOTA-type games. The user will be given a hero and get to select different abilities. He will begin the game on one corner of the square map and have to fight his way down a lane to the opposite corner. He will face towers that attack him as well as a timed wave of enemies. Once he defeats the opponent’s core tower the game will be over.
